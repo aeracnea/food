@@ -48,7 +48,7 @@
 @media only screen and (max-width: 767px) {
     body { font-size: 16px; }
     section { padding: 30px 0; }
-    
+    .logo{display: block;}
     .row,
     .hero-text-box { padding: 0 4%; }
     .col { 
